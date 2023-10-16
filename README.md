@@ -9,12 +9,12 @@ We focus in this survey on recent methods which leverage self-supervised feature
  *If you wish your paper to be added, please create a pull request.*
 
 ## Table of Content
-* [*Training-free* object localization with ViT self-supervised features](#*Training-free*-object-localization-with-ViT-self-supervised-features)
+* [*Training-free* object localization with ViT self-supervised features](#Training-free-object-localization-with-ViT-self-supervised-features)
   * [Single object-discovery](#Single-object-discovery)
   * [Multi-object discovery](#Multi-object-discovery)
 * [*With training* single-object localization with ViT self-supervised features](#With-training-single-object-localization-with-ViT-self-supervised-features)
   * [Unsupervised saliency detection](#Unsupervised-saliency-detection)
-  * [Class-agnostic multi-object detection/instance segmentation](#Class-agnostic-multi-object-detection/instance-segmentation)
+  * [Class-agnostic multi-object detection/instance segmentation](#Class-agnostic-multi-object-detectioninstance-segmentation)
   * [Improving self-supervised features](#Improving-self-supervised-features)
 * [Self-supervised features used for the task](#Self-supervised-features-used-for-the-task)
 
