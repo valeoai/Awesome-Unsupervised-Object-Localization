@@ -1,12 +1,14 @@
 # Awesome works on *Unsupervised Object Localization*
 
-We report in this repository the different works of unsupervised localization that are studied in our survey paper:
+We report in this repository different works of unsupervised localization that are discussed in our survey paper:
 >**Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey** <a href="todo">[paper]</a>
 \
 by Oriane Siméoni, Eloi Zablocki, Spyros Gidaris, Gilles Puy and Patrick Pérez
 
 We focus in this survey on recent methods which leverage self-supervised features.
- *If you wish your paper to be added, please create a pull request.*
+ *If you want your paper to be added, please create a pull request.*
+
+(last update 16th of Oct. 2023)
 
 ## Table of Content
 * [*Training-free* object localization with ViT self-supervised features](#Training-free-object-localization-with-ViT-self-supervised-features)
@@ -28,10 +30,10 @@ In this section we report methods that solely exploit self-supervised features w
 **Localizing Objects with Self-Supervised Transformers and no Labels**, BMVC 2021
 <a href="https://arxiv.org/abs/2109.14279">[paper]</a> <a href="https://github.com/valeoai/LOST">[code]</a>
 
-<< TokenCut >> 
-- **Self-supervised Transformers for Unsupervised Object Discovery using Normalized Cut**, CVPR 2022
-<a href="https://arxiv.org/abs/2202.11539">[paper]</a> <a href="https://github.com/YangtaoWANG95/TokenCut">[code]</a>
-- **TokenCut: Segmenting Objects in Images and Videos with Self-supervised Transformer and Normalized Cut**
+<< TokenCut >> \
+**Self-supervised Transformers for Unsupervised Object Discovery using Normalized Cut**, CVPR 2022
+<a href="https://arxiv.org/abs/2202.11539">[paper]</a> <a href="https://github.com/YangtaoWANG95/TokenCut">[code]</a> \
+**TokenCut: Segmenting Objects in Images and Videos with Self-supervised Transformer and Normalized Cut**
 <a href="https://arxiv.org/abs/2209.00383">[paper]</a> <a href="https://github.com/YangtaoWANG95/TokenCut_video">[code]</a>
 
 << DSM >> \
@@ -46,6 +48,7 @@ In this section we report methods that solely exploit self-supervised features w
 
 
 ## *With training* single-object localization with ViT self-supervised features
+We now report methods which integrate a training step.
 
 ### Unsupervised saliency detection
 
@@ -65,7 +68,6 @@ In this section we report methods that solely exploit self-supervised features w
 **Unsupervised camouflaged object segmentation as domain adaptation**, ICCVW 2023
 <a href="https://arxiv.org/abs/2308.04528">[paper]</a> <a href="https://github.com/Jun-Pu/UCOS-DA">[code]</a>
 
-
 << UOLwRPS >> \
 **Unsupervised object localization with representer point selection**, ICCV 2023
 <a href="https://arxiv.org/abs/2309.04172">[paper]</a> <a href=" https://github.com/yeonghwansong/uolwrps">[code]</a>
@@ -77,7 +79,6 @@ In this section we report methods that solely exploit self-supervised features w
 << PaintSeg >> \
 **PaintSeg: Training-free Segmentation via Painting**, NeurIPS 2023
 <a href="https://arxiv.org/abs/2305.19406">[paper]</a> <a href="">[code]</a>
-
 
 ### Class-agnostic multi-object detection/instance segmentation 
 
