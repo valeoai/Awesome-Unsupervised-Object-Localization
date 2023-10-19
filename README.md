@@ -5,10 +5,11 @@ We report in this repository different works of unsupervised localization that a
 \
 by Oriane Siméoni, Eloi Zablocki, Spyros Gidaris, Gilles Puy and Patrick Pérez
 
-We focus in this survey on recent methods which leverage self-supervised features.
- *If you want your paper to be added, please create a pull request.*
+We focus in this survey on recent methods which leverage *ViTs self-supervised features* and do not use *any manual annotation*. 
 
+If you want your paper to be added, please create a pull request. \
 (last update 16th of Oct. 2023)
+
 
 ## Table of Content
 * [*Training-free* object localization with ViT self-supervised features](#Training-free-object-localization-with-ViT-self-supervised-features)
