@@ -125,7 +125,7 @@ Tasks**, ICCV 2023
 
 ## Self-supervised features used for the task
 
-<< DINO >> used in most works\
+<< DINO >> \
 **Emerging Properties in Self-Supervised Vision Transformers**, ICCV 2021 
 <a href="https://arxiv.org/abs/2104.14294">[paper]</a> <a href="https://github.com/facebookresearch/dino">[code]</a>
 
