@@ -1,7 +1,7 @@
 # Awesome works on *Unsupervised Object Localization*
 
 We report in this repository different works of unsupervised localization that are discussed in our survey paper:
->**Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey** <a href="todo">[paper]</a>
+>**Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey** <a href="https://arxiv.org/abs/2310.12904">[paper]</a>
 \
 by Oriane Siméoni, Eloi Zablocki, Spyros Gidaris, Gilles Puy and Patrick Pérez
 
