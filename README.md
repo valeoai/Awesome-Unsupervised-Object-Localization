@@ -14,7 +14,7 @@ by Oriane Siméoni, Eloi Zablocki, Spyros Gidaris, Gilles Puy and Patrick Pérez
 <a href="https://arxiv.org/abs/2310.12904">[paper]</a>
 
 ## Table of Content
-* [*Training-free* object localization with ViT self-supervised features](#Training-free-object-localization-with-ViT-self-supervised-features)
+* [🚀 *Training-free* object localization with ❄ ViT self-supervised features ❄](#🚀-Training-free-object-localization-with-❄-ViT-self-supervised-features❄)
   * [Single object-discovery](#Single-object-discovery)
   * [Multi-object discovery](#Multi-object-discovery)
 * [*With training* object localization using ViT self-supervised features](#With-training-object-localization-using-ViT-self-supervised-features)
