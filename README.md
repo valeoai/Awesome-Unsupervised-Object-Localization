@@ -176,7 +176,7 @@ Vision Transformers Need Registers, arxiv 2023 <a href="https://arxiv.org/abs/23
 If you found our survey useful for your research, please consider citing:
 ```
 @article{simeoni2023survey,
-  author    = {Sim{\'e}oni, Oriane and Puy, Gilles and Zablocki, {\'E}loi and P{\'e}rez, Patrick},
+  author    = {Sim{\'e}oni, Oriane and Zablocki, {\'E}loi and Gidaris, Spyros and Puy, Gilles and P{\'e}rez, Patrick},
   title     = {Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey},
   journal={arXiv preprint arXiv:2310.12904},
   year={2023}
