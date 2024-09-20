@@ -84,6 +84,10 @@ Sempart: Self-supervised Multi-resolution Partitioning of Image Semantics, ICCV 
 PaintSeg: Training-free Segmentation via Painting, NeurIPS 2023
 <a href="https://arxiv.org/abs/2305.19406">[paper]</a> <a href="">[code]</a>
 
+**<< Peekaboo >>** \
+PEEKABOO: Hiding Parts of an Image for Unsupervised Object Localization, BMVC 2024
+<a href="https://arxiv.org/abs/2407.17628">[paper]</a> <a href="https://github.com/hasibzunair/peekaboo">[code]</a>
+
 ### Class-agnostic multi-object detection/instance segmentation 
 
 **<< FreeSolo >>** \
